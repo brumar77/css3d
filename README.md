@@ -8,7 +8,7 @@ Este proyecto implementa un slider de imágenes en 3D utilizando **HTML** y **CS
 
 ## Enlace para Visualizar el Proyecto
 Puedes ver el proyecto en vivo en GitHub Pages:
-[https://github.com/brumar77/css3d](https://github.com/brumar77/css3d)
+[https://github.com/brumar77/css3d](https://brumar77.github.io/css3d/)
 
 ## Estructura del Proyecto
 - **index.html**: Contiene la estructura HTML básica del slider.
